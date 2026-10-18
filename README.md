@@ -8,8 +8,7 @@ $\color{#616161}{\textsf{♰⊱}}$
 <details>
 <summary>$\color{#8F8F8F}{\textsf{More about me.}}$</summary>
   
-```diff
-I'm gay
-```
+$\color{#C2C2C2}{\textsf{I'm gay}}$ 
+
 </details>
 
