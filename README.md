@@ -4,7 +4,7 @@ $\color{#616161}{\textsf{♰⊱}}$  $\color{#C2C2C2}{\textsf{Azrael.}}$
 
 $\color{#616161}{\textsf{♰⊱}}$ $\color{#C2C2C2}{\textsf{It/its or they/them are preferred, but he/him is also okay.}}$
 
-$\color{#616161}{\textsf{♰⊱}}$ 
+$\color{#616161}{\textsf{♰⊱}}$ $\color{#C2C2C2}{\textsf{You can always find me on the Phighting area in safe server or around spawn if I'm on the 18+ one.}}$
 
 
 <details>
