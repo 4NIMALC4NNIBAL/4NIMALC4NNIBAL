@@ -6,7 +6,7 @@ $\color{#616161}{\textsf{♰⊱}}$
 
 
 <details>
-<summary>$\color{#feb1c6}{\textsf{More about me.}}$</summary>
+<summary>$\color{#8F8F8F}{\textsf{More about me.}}$</summary>
   
 ```diff
 # I'm gay
