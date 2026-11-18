@@ -1,4 +1,4 @@
-<img width="270" alt="yes" src=gunshow.png align="right"/>
+<img width="300" alt="yes" src=gunshow.png align="right"/>
 
 $\color{#616161}{\textsf{♰⊱}}$  $\color{#C2C2C2}{\textsf{Azrael.}}$
 
