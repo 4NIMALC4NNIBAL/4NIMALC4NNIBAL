@@ -25,4 +25,4 @@ $\color{#C2C2C2}{\textsf{-People that fake having any type of disorder. If you s
 
 </details>
 
-$\color{#616161}{\textsf{♰⊱}}$  $\color{#C2C2C2}{\textsf{Please note that my first language is not English. This readme is still a work in progress.}}$
+$\color{#616161}{\textsf{♰⊱}}$  $\color{#C2C2C2}{\textsf{Please note that my first language is not English. This readme is still a WIP.}}$
