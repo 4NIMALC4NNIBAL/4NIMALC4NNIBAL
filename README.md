@@ -37,4 +37,4 @@ $\color{#C2C2C2}{\textsf{-Or romanticizes them.}}$
 
 </details>
 
-$\color{#616161}{\textsf{♰⊱}}$  $\color{#C2C2C2}{\textsf{Please note that my first language is not English. This readme is still a WIP.}}$
+$\color{#616161}{\textsf{♰⊱}}$  $\color{#C2C2C2}{\textsf{Take care you all, and stay safe on the internet.}}$
