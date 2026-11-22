@@ -23,6 +23,7 @@ $\color{#C2C2C2}{\textsf{interact first but I love meeting and/or befreinding ne
 $\color{#C2C2C2}{\textsf{As for who I follow, I'll be only following friends or at least people I know. Anyone that}}$ 
 $\color{#C2C2C2}{\textsf{starts following me even if they're on my DNI will be blocked, as well as spam followers if}}$ 
 $\color{#C2C2C2}{\textsf{I don't know who they are.}}$ 
+
 </details>
 
 <details>
