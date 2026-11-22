@@ -16,12 +16,13 @@ $\color{#C2C2C2}{\textsf{I'm gay}}$
 </details>
 
 <details>
-<summary>$\color{#8F8F8F}{\textsf{𝔇𝔬 𝔫𝔬𝔱 𝔦𝔫𝔱𝔢𝔯𝔞𝔠𝔱 𝔦𝔣:}}$</summary>
+<summary>$\color{#8F8F8F}{\textsf{𝔇𝔬 𝔫𝔬𝔱 𝔦𝔫𝔱𝔢𝔯𝔞𝔠𝔱 𝔩𝔦𝔰𝔱:}}$</summary>
 
 $\color{#C2C2C2}{\textsf{-Basic DNI criteria.}}$   
 $\color{#C2C2C2}{\textsf{-People under 16 DNI. If I'm on the 18 plus server, MDNI in general.}}$ 
-$\color{#C2C2C2}{\textsf{-Everyone that supports any type of generative AI.}}$ 
-$\color{#C2C2C2}{\textsf{-People that fake having any type of disorder.}}$ 
+$\color{#C2C2C2}{\textsf{-Everyone that supports any type of generative AI.}}$     
+$\color{#C2C2C2}{\textsf{-Anyone that fakes having any type of disorder,}}$  
+$\color{#C2C2C2}{\textsf{-Or romanticizes them.}}$ 
 
 </details>
 
