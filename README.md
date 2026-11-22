@@ -13,11 +13,16 @@ $\color{#C2C2C2}{\textsf{or lurking around spawn if I'm on the 18 plus one.}}$
   
 $\color{#C2C2C2}{\textsf{As I said before, my name's Azra! But feel free to call me however you wish,}}$ 
 $\color{#C2C2C2}{\textsf{I'm completely fine with nicknames. I'm both a student and worker, but I'm always}}$ 
-$\color{#C2C2C2}{\textsf{on pony town on my free time... although I'm almost always offtab. So if you wish to interact}}$
-$\color{#C2C2C2}{\textsf{with me, please whisper, otherwise I won't see your message.}}$ 
+$\color{#C2C2C2}{\textsf{on pony town on my free time... although I'm almost always offtab. So if you wish to}}$
+$\color{#C2C2C2}{\textsf{interact with me, please whisper, otherwise I won't see your message.}}$ 
 
 $\color{#C2C2C2}{\textsf{I will never allow people copying my skins (if it's not a gift, of course), but you can}}$ 
-$\color{#C2C2C2}{\textsf{always ask for inspiration.}}$ 
+$\color{#C2C2C2}{\textsf{always ask for inspiration. Also, feel free to sit with me whenever you want! I rarely}}$ 
+$\color{#C2C2C2}{\textsf{interact first but I love meeting and/or befreinding new people.}}$ 
+
+$\color{#C2C2C2}{\textsf{As for who I follow, I'll be only following friends or at least people I know. Anyone that}}$ 
+$\color{#C2C2C2}{\textsf{starts following me even if they're on my DNI will be blocked, as well as spam followers if}}$ 
+$\color{#C2C2C2}{\textsf{I don't know who they are.}}$ 
 </details>
 
 <details>
