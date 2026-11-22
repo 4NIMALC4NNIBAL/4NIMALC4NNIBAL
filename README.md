@@ -11,8 +11,13 @@ $\color{#C2C2C2}{\textsf{or lurking around spawn if I'm on the 18 plus one.}}$
 <details>
 <summary>$\color{#8F8F8F}{\textsf{𝔐𝔬𝔯𝔢 𝔞𝔟𝔬𝔲𝔱 𝔪𝔢.}}$</summary>
   
-$\color{#C2C2C2}{\textsf{I'm gay}}$ 
+$\color{#C2C2C2}{\textsf{As I said before, my name's Azra! But feel free to call me however you wish,}}$ 
+$\color{#C2C2C2}{\textsf{I'm completely fine with nicknames. I'm both a student and worker, but I'm always}}$ 
+$\color{#C2C2C2}{\textsf{on pony town on my free time... although I'm almost always offtab. So if you wish to interact}}$
+$\color{#C2C2C2}{\textsf{with me, please whisper, otherwise I won't see your message.}}$ 
 
+$\color{#C2C2C2}{\textsf{I will never allow people copying my skins (if it's not a gift, of course), but you can}}$ 
+$\color{#C2C2C2}{\textsf{always ask for inspiration.}}$ 
 </details>
 
 <details>
